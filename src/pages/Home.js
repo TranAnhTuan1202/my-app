@@ -2,7 +2,8 @@
 function Home() {
   return (
     <div >
-      1234566789
+      nhanh 2
+      
 
     </div>
   );
