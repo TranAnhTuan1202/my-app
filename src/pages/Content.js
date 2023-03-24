@@ -2,7 +2,7 @@
 function Content() {
     return (
       <div >
-        Tuan test content 
+        Tuan test content 123465789
   
       </div>
     );
