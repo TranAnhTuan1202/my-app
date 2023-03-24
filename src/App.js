@@ -5,10 +5,11 @@ import Content from './pages/Content';
 
 function App() {
   return (
-    <>
-    <Home/>
-    <Content/>
-    </>
+    <div >
+      <Home/>
+      <Content/>
+      
+    </div>
   );
 }
 
